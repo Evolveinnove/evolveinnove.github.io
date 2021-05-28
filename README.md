@@ -29,4 +29,4 @@ which has various features:
 
 ---
 
-This is the registered Trademark of Evolve Innove & Co.s
+This is the registered Trademark of Evolve Innove & Co.
