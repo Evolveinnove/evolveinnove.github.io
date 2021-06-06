@@ -26,7 +26,9 @@ which has various features:
 |----|-----|-------|      
 |AmanPreet Singh|asbbhalla11@gmail.com|<a href="tel:7974071282">7974071282</a>|
 
-
+>Evolve Innove Incubated at KLIC (KALCHURI LNCT INCUBATION CENTER BHOPAL)
+<img>
 ---
 
 This is the registered Trademark of Evolve Innove & Co.
+

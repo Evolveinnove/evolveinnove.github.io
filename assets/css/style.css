@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 8px 0;
   }
   #header{
-    height: 90px;
+    height: 76px;
   }
 }
 
@@ -393,8 +393,8 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
-#hero .hero-img img {
-  width: 70%;
+#hero .hero-img video {
+  width: 99%;
 }
 
 @media (min-width: 1024px) {
@@ -1492,11 +1492,13 @@ section {
 .portfolio-details .portfolio-description p {
   padding: 0 0 0 0;
 }
-
 @media (max-width: 768px) {
   .portfolio-details .portfolio-info {
     position: static;
     margin-top: 30px;
+  }
+  .video-demonstration video{
+    width: 100%;
   }
 }
 
